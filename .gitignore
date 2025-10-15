@@ -39,3 +39,13 @@ sysinfo.txt
 Icon?
 ehthumbs.db
 Thumbs.db
+
+### 
+# Unity Logs
+###
+# Logs generados por el Editor o el Player
+*.log
+*.log.*
+Logs/
+UserSettings/
+MemoryCaptures/
