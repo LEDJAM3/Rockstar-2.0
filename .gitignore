@@ -49,3 +49,11 @@ Thumbs.db
 Logs/
 UserSettings/
 MemoryCaptures/
+
+# Unity local editor files
+El ultimo testigo/Logs/
+El ultimo testigo/UserSettings/
+El ultimo testigo/Library/
+El ultimo testigo/Temp/
+El ultimo testigo/Obj/
+El ultimo testigo/*.log
